@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+My name is Fernando and I'm 20yo. 
+
+Currently a CS student at UFRGS who loves to learn, code and help other people.
+
+I've worked as a back-end dev, but I'm enjoying a lot using Vuejs and React.
+
+I also love competitive programming!
 
 <!--
 **fernandozanutto/fernandozanutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
